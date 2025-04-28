@@ -46,9 +46,9 @@ Music and sports are some of my other passions, and they're what help me unwind 
 </br>
 <div align="center" style="gap: 20px;">
   <a href="https://www.linkedin.com/in/mauropolizzideveloperfullstack/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" style="width: 50px; margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" style="width: 50px; margin-right: 20px;" />
   </a>
   <a href="mailto:mauropolizzi2@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" style="width: 50px; margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" style="width: 50px; margin-right: 20px;" />
   </a>
 </div>
